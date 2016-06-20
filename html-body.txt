@@ -1,0 +1,15 @@
+<style type="text/css">
+body {
+margin:0px;
+}
+td {
+font:11px arial;
+color:#99CCFF;
+}
+</style>
+<body bgcolor="#14285f">
+<object class="video" width="435" height="299" type="application/x-shockwave-flash" data="flvplayer.swf">
+<param name="flashvars" value="file=%s" />
+<param name="movie" value="flvplayer.swf" />
+<embed src="flvplayer.swf" width="435" height="299" bgcolor="#FFFFFF" type="application/x-shockwave-flash" />
+</object>
